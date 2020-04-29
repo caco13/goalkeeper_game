@@ -17,6 +17,6 @@
  "scoreboard":"true",
  "finalScoreboard":"long",
  "playsToRelax":"51",
- "showHistory":"true",
+ "showHistory":"false",
  "speedGKAnim":"1.2"
 }
